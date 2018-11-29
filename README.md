@@ -21,3 +21,13 @@ net # Development links
 * [GraphQL Full Course -freecodecamp](https://www.youtube.com/watch?v=ed8SzALpx1Q)
 
 
+## Docker
+
+* [Dot net microsoft images](https://hub.docker.com/r/microsoft/dotnet/)
+
+## AWS Tools
+* [VSCode AWS Toolkit] https://github.com/aws/aws-toolkit-vscode
+
+## Watchlist
+
+* [CoreRT](https://github.com/dotnet/corert)
