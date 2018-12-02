@@ -40,7 +40,7 @@ net # Development links
 
 ## Developer Interview Prep Link
 * [Tech Dummies - solns to various architecture problems](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-
+* [CS Dojo - lots of other good tutorials here](https://www.youtube.com/playlist?list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev)
 
 ## AWS Training
 * [AWS Learning management system](https://www.aws.training/)
