@@ -26,8 +26,23 @@ net # Development links
 * [Dot net microsoft images](https://hub.docker.com/r/microsoft/dotnet/)
 
 ## AWS Tools
-* [VSCode AWS Toolkit] https://github.com/aws/aws-toolkit-vscode
+* [VSCode AWS Toolkit](https://github.com/aws/aws-toolkit-vscode)
+
+## Chaos
+*[Chaos Conf](https://www.youtube.com/watch?v=cefJd2v037U&list=PLLIx5ktghjqKtZdfDDyuJrlhC-ICfhVAN)
+*[Netflix Chaos Book](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/)
+
 
 ## Watchlist
 
 * [CoreRT](https://github.com/dotnet/corert)
+
+
+## Developer Interview Prep Link
+* [Tech Dummies - solns to various architecture problems](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+
+
+## AWS Training
+* [AWS Learning management system](https://www.aws.training/)
+* [AWS Getting started - lots of good short tutorials][https://aws.amazon.com/getting-started/]
+
