@@ -46,3 +46,6 @@ net # Development links
 * [AWS Learning management system](https://www.aws.training/)
 * [AWS Getting started - lots of good short tutorials][https://aws.amazon.com/getting-started/]
 
+## AWS Twitch
+* [Twitch tutorials](https://aws.amazon.com/developer/community/twitch/recordings/)
+
