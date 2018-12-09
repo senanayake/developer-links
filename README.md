@@ -49,3 +49,6 @@ net # Development links
 ## AWS Twitch
 * [Twitch tutorials](https://aws.amazon.com/developer/community/twitch/recordings/)
 
+## Gatsby
+* [Deploy to S3](https://benenewton.com/deploy-your-gatsby-js-site-to-aws-s-3)
+
