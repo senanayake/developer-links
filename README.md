@@ -52,3 +52,6 @@ net # Development links
 ## Gatsby
 * [Deploy to S3](https://benenewton.com/deploy-your-gatsby-js-site-to-aws-s-3)
 
+## Mobile centric Reinvent 2018
+[Mobile round up](https://adrianhall.gitlab.io/awsmobile-weekly/awsmobile/weekly/2018/12/03/issue25.html)
+
