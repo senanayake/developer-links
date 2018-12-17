@@ -1,4 +1,4 @@
-net # Development links
+i# Development links
 
 
 ## Dot Net
@@ -8,6 +8,11 @@ net # Development links
 * [Dot Net Core for AWS Lambda](https://github.com/aws/aws-lambda-dotnet)
 * [AWS Extentions for Dot Net CLI](https://github.com/aws/aws-extensions-for-dotnet-cli)
 * [AWS dot net developer blog](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
+
+## AWS Microsoft 
+* [AWS Microsoft workloads - self study guide](https://aws.amazon.com/windows/windows-study-guide/?sc_channel=EL&sc_campaign=Demo_2018_vid&sc_medium=YouTube&sc_content=video2760&sc_detail=MICROSOFT&sc_country=US)
+* [AWS Dot net core tutorials](https://www.youtube.com/channel/UCRIL34doDYqTBSyCoQINydw)
+
 ## CloudFormation
 
 *  [CDK](https://awslabs.github.io/aws-cdk/passing-in-data.html#getting-a-value-from-a-context-variable)
