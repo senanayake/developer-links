@@ -30,6 +30,9 @@ i# Development links
 
 * [Dot net microsoft images](https://hub.docker.com/r/microsoft/dotnet/)
 
+## Kubernetes
+* [Kubernetes AWS tutorial](https://eksworkshop.com/introduction/)
+
 ## AWS Tools
 * [VSCode AWS Toolkit](https://github.com/aws/aws-toolkit-vscode)
 
