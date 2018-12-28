@@ -32,6 +32,8 @@ i# Development links
 
 ## Kubernetes
 * [Kubernetes AWS tutorial](https://eksworkshop.com/introduction/)
+* [Kubnetes AWS github](https://github.com/aws-samples/aws-workshop-for-kubernetes)
+
 
 ## AWS Tools
 * [VSCode AWS Toolkit](https://github.com/aws/aws-toolkit-vscode)
@@ -62,4 +64,18 @@ i# Development links
 
 ## Mobile centric Reinvent 2018
 [Mobile round up](https://adrianhall.gitlab.io/awsmobile-weekly/awsmobile/weekly/2018/12/03/issue25.html)
+
+
+## Conferences
+[Chaos Conf](https://www.youtube.com/playlist?list=PLLIx5ktghjqKtZdfDDyuJrlhC-ICfhVAN)
+[React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
+[Serverless Conf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
+[Docker Con](https://2018.dockercon.com/)
+[Reinvent](https://reinvent.awsevents.com/)
+[NIPS Proceedings](https://papers.nips.cc/)
+[Kubernetes conf](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
+
+
+
+
 
