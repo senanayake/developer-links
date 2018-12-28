@@ -1,4 +1,4 @@
-i# Development links
+# Development links
 
 
 ## Dot Net
@@ -67,13 +67,13 @@ i# Development links
 
 
 ## Conferences
-[Chaos Conf](https://www.youtube.com/playlist?list=PLLIx5ktghjqKtZdfDDyuJrlhC-ICfhVAN)
-[React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
-[Serverless Conf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
-[Docker Con](https://2018.dockercon.com/)
-[Reinvent](https://reinvent.awsevents.com/)
-[NIPS Proceedings](https://papers.nips.cc/)
-[Kubernetes conf](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
+*[Chaos Conf](https://www.youtube.com/playlist?list=PLLIx5ktghjqKtZdfDDyuJrlhC-ICfhVAN)
+*[React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
+*[Serverless Conf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
+*[Docker Con](https://2018.dockercon.com/)
+*[Reinvent](https://reinvent.awsevents.com/)
+*[NIPS Proceedings](https://papers.nips.cc/)
+*[Kubernetes conf](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
 
 
