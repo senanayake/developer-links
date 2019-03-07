@@ -76,6 +76,12 @@
 *[NIPS Proceedings](https://papers.nips.cc/)
 *[Kubernetes conf](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/)
 
+## CDK
+https://awslabs.github.io/aws-cdk/index.html
+https://hackernoon.com/private-npm-packages-2e6579b37616
+https://awslabs.github.io/aws-cdk/index.html
+
+
 
 
 
