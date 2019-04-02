@@ -80,7 +80,8 @@
 https://awslabs.github.io/aws-cdk/index.html
 https://hackernoon.com/private-npm-packages-2e6579b37616
 https://awslabs.github.io/aws-cdk/index.html
-
+https://github.com/aws-samples/aws-cdk-examples
+https://github.com/eladb/awesome-cdk
 
 
 
